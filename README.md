@@ -26,8 +26,8 @@ Once an item is stored, it can't be deleted back. Only retrieved. (They are dele
 ## Errors
 Errors will appear most likely in the following scenarios so make sure to avoid them:
 - Removing all the servers
-- Adding servers with huge a server_id
-- Adding a humongous numbers of items in few servers (each server has a maximum hashtable size of 10000 entries)
+- Adding servers with a huge server_id
+- Adding a humongous number of items in few servers (each server has a maximum hashtable size of 10000 entries)
 
 
 ### What could have been done better
